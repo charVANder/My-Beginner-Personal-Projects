@@ -1,5 +1,4 @@
-*The Roux Institute at Northeastern. DS5020 Spring 2024 Final Project.*<br>
-*Evangeline Kim and Liam O'Connor*
+*The Roux Institute at Northeastern. DS5020 Spring 2024 Project.*<br>
 # K-Means Clustering Tutorial
 ## Table of Contents
 * [What is K-Means Clustering?](#what-is-k-means-clustering)
